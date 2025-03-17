@@ -41,15 +41,7 @@ The Digital Music Store is a comprehensive digital music distribution platform d
    - Execute the main class to start the JavaFX application.
    - Ensure the MySQL server is running and accessible.
 
-## Screenshots
-![Login Screen](screenshots/login.png)
-*Login Screen*
 
-![Music Catalog](screenshots/music_catalog.png)
-*Music Catalog*
-
-![Artist Dashboard](screenshots/artist_dashboard.png)
-*Artist Dashboard*
 
 ## Future Enhancements
 - **Streaming Service Integration**: Add functionality to stream music directly from the platform.
